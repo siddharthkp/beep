@@ -1,0 +1,26 @@
+{
+  "name": "beep-sid",
+  "version": "1.1.1",
+  "description": "beeper module",
+  "main": "index.js",
+  "bin": {
+    "beep": "cli.js"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddharthkp/beep.git"
+  },
+  "keywords": [
+    "beep",
+    "sound"
+  ],
+  "author": "siddharthkp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siddharthkp/beep/issues"
+  },
+  "homepage": "https://github.com/siddharthkp/beep#readme"
+}
